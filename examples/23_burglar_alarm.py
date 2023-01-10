@@ -22,6 +22,7 @@ def pir_handler(pin):
 
 sensor_pin.irq(trigger=machine.Pin.IRQ_RISING, handler=pir_handler)
 sensor_pin2.irq(trigger=machine.Pin.IRQ_RISING, handler=pir_handler)
+
 while True:
     led.toggle()
     utime.sleep(5)
