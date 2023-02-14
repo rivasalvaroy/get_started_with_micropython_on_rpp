@@ -1,3 +1,4 @@
+# ./imgs/01_breadboard.png
 user_name = input("What is your name? ")
 while user_name != "Clark Kent":
     print("You are not Superman - try again!")
