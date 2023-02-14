@@ -1,5 +1,6 @@
 '''
 CHALLENGE: BUILDING IT UP
+# ./imgs/03_breadboard.png
 
 1. Can you modify your program so it both lights the LED and prints a status message to the Shell? 
 2. What would you need to change to make the LED stay on when the button isn’t pressed and switch off when it is? 
@@ -21,7 +22,7 @@ while True:
         utime.sleep(2)
     led_external.value(0)
 # 2
-# change line 15 to the following
+# change line 19 to the following
 # if button.value() == 0:
 # or
 # if button.value() != 1:
