@@ -1,5 +1,6 @@
 '''
 CHALLENGE: NEW MESSAGE
+./imgs/01_breadboard.png
 
 1. Can you change the message the Python program prints as its output? 
 2. If you wanted to add more messages, would you use interactive mode or script mode? 

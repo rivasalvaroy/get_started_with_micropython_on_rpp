@@ -1,5 +1,6 @@
 '''
 CHALLENGE: LOOP THE LOOP
+# ./imgs/01_breadboard.png
 
 1. Can you change the loop back into a definite loop again? 
 2. Can you add a second definite loop to the program? 

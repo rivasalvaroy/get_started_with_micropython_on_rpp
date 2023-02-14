@@ -1,5 +1,6 @@
 '''
 CHALLENGE: LONGER LIGHT-UP
+# ./imgs/01_breadboard.png
 
 1. How would you change your program to make the LED stay on for longer? 
 2. What about staying off for longer? 
@@ -10,9 +11,9 @@ import machine
 import utime
 
 # for RPP  (the on-board LED)
-led_onboard = machine.Pin(25, machine.Pin.OUT)
+# led_onboard = machine.Pin(25, machine.Pin.OUT)
 # for RPP W (the on-board LED)
-# led_onboard = machine.Pin("LED", machine.Pin.OUT)
+led_onboard = machine.Pin("LED", machine.Pin.OUT)
 while True:
     led_onboard.value(1)
     utime.sleep(5)  # 1 changing 5 to a larger number (seconds)

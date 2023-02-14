@@ -1,5 +1,6 @@
 '''
 CHALLENGE: ADD MORE QUESTIONS
+# ./imgs/01_breadboard.png
 
 1. Can you change the program to ask more than one question, 
 storing the answers in multiple variables? 
