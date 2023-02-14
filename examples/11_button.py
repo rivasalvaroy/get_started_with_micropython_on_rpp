@@ -1,3 +1,4 @@
+# ./imgs/03_breadboard.png
 import machine
 import utime
 
