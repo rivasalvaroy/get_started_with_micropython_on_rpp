@@ -1,5 +1,6 @@
 '''
 CHALLENGE: MULTIPLE LEDS
+# ./imgs/02_breadboard.png
 
 1. Can you modify the program to light up both the on-board and 
 external LEDs at the same time? 
