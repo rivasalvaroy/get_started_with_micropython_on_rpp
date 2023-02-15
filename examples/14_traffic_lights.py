@@ -1,3 +1,4 @@
+# ./imgs/06_breadboard.png
 import machine
 import utime
 import _thread
