@@ -1,5 +1,7 @@
 '''
 CHALLENGE: CUSTOMISATION
+# ./imgs/08_breadboard.png
+
 1. Can you extend the burglar alarm with another PIR sensor? 
 2. What about adding another LED, or another buzzer? 
 3. Can you change the messages that print to match the areas you’re covering with each sensor? 
