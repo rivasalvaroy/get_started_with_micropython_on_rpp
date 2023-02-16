@@ -1,5 +1,6 @@
 '''
 CHALLENGE: CAN YOU IMPROVE IT?
+# ./imgs/04_breadboard.png
 
 1. Can you change the program to give the pedestrian longer to cross? 
 2. Can you find information about other countries’ traffic light patterns 
