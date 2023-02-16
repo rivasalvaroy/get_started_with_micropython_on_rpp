@@ -1,3 +1,4 @@
+# ./imgs/07_breadboard.png
 import machine
 import utime
 import urandom
