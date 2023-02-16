@@ -1,5 +1,6 @@
 '''
 CHALLENGE: TIMINGS
+# ./imgs/07_breadboard.png
 
 1. Can you modify the messages that print? 
 2. Can you add a third button, so that three people can play at once? 
