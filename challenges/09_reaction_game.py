@@ -1,5 +1,6 @@
 '''
 CHALLENGE: CUSTOMISATION
+# ./imgs/06_breadboard.png
 
 1. Can you tweak your game so that the LED stays lit for a longer time? 
 2. What about staying lit for a shorter time? 
