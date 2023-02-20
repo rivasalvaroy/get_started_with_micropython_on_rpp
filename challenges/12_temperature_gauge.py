@@ -1,5 +1,6 @@
 '''
 CHALLENGE: CUSTOMISATION
+# ./imgs/09_breadboard.png
 
 1. Can you combine your two programs, and have the LED’s brightness 
 controlled by the temperature reading from the on-board temperature sensor? 
@@ -26,7 +27,6 @@ while True:
     reading = sensor_temp.read_u16() * conversion_factor
     temperature = 27 - (reading - 0.706)/0.001721
     print(temperature)
-    # 4 ldr 2M-50k / resistor 100k  - V = 3.3 (100k / ldr + 100k) real 1.2M (0.25v)darkness - 10k (3v) light
     voltage = ldr_sensor.read_u16() * conversion_factor
     print(voltage)
     utime.sleep(2)
