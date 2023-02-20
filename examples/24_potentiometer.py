@@ -1,4 +1,4 @@
-# ./imgs/11_breadboard.png
+# ./imgs/12_breadboard.png
 import machine
 import utime
 
